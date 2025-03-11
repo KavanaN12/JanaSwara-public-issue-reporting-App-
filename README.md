@@ -1,6 +1,39 @@
-This is basically a Public Issue Repoting app named janaswara, Janaswara is more than just a platform for reporting public issues—it's a movement for change. In an age where technology has the <b> power to connect communities </b>and decision-makers instantly, Janaswara harnesses this power to help citizens voice their concerns and get them addressed. Whether it's a complaint about a pothole, an unclean street, a broken traffic signal, or any other civic problem, Janaswara acts as a bridge between citizens and those in authority who can resolve the issues.
-It has two phases(login Interfaces), namely publiclogin and authoritylogin.
-Public can raise a complaint,check status of all their complaints, view all active complaints of other people,edit their profile.
-While authority has an additional feature of updating status as inactive(resolved) once the complaint is resolved. 
-Many additional features can be implimented so that it becomes user friendly, but in a given constraint this is the first commit. 
-All suggesion accepted and are encouraged to add additional features to the web page. 
+# 📢 Janaswara - Public Issue Reporting App  
+
+Janaswara is more than just a platform—it's a movement for change! 🚀 It connects citizens with authorities to ensure public issues are heard and resolved. Whether it's a pothole, unclean streets, or a broken signal, Janaswara bridges the gap between people and decision-makers. 💡
+
+## 🌟 Features  
+👥 **Public Login:**
+- Raise complaints 📢
+- Check complaint status 📌
+- View all active complaints from others 🏙️
+- Edit profile ✏️
+
+🏛️ **Authority Login:**
+- View complaints 📝
+- Update complaint status as resolved ✅
+
+## 🛠 Tech Stack  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+
+## 🚀 Getting Started  
+### 📌 Prerequisites  
+Ensure you have:
+- Node.js installed
+- MongoDB running
+
+### 🔽 Install & Run  
+#### Clone the Repository  
+```sh
+git clone https://github.com/KavanaN12/JanaSwara-public-issue-reporting-App-/tree/main
+```
+
+## 🤝 Contributing  
+We welcome improvements! 🎉 Feel free to:
+1. Fork the repo 🍴  
+2. Create a new branch (`git checkout -b feature-name`)  
+3. Make your changes & commit (`git commit -m "Added a new feature"`)  
+4. Push to your branch (`git push origin feature-name`)  
+5. Open a pull request 🚀  
